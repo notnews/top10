@@ -1,0 +1,9 @@
+no,src,url,ia_url,ia_year_begin,ia_year_end
+1,wapo_politics,https://www.washingtonpost.com/politics/,,,
+2,nyt_politics,http://www.nytimes.com/pages/politics/index.html,http://www.nytimes.com/pages/politics/index.html,2012,2016
+3,hpmg_politics,http://www.huffingtonpost.com/section/politics,http://www.huffingtonpost.com/politics/,2012,2016
+4,fox_politics,http://www.foxnews.com/politics.html,http://www.foxnews.com/politics/index.html,2012,2016
+5,wjs_politics,http://www.wsj.com/news/politics,http://online.wsj.com/public/page/news-politics-campaign.html,2012,2016
+6,yahoo_politics,https://www.yahoo.com/news/politics/,,,
+7,usat_politics,http://www.usatoday.com/news/politics/,,,
+8,wapo_themost,https://www.washingtonpost.com/pb/themost/,,,
