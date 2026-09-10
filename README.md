@@ -59,7 +59,7 @@ Historical HTML selectors cover 2012 and 2016–2017 layouts for Fox, HuffPost, 
 | Historical full text | Download linked articles and extract text with newspaper3k; availability varied by collection |
 | Reproduction tools | Parse local HTML/gzip or NYT JSON/JSONP, retain observation context, and convert CSV/JSONL to typed Parquet |
 
-The [historical implementation](https://github.com/notnews/top10/tree/db14b87b6ee2de9b0ba4fc097acc49178cd9960e) preserves the original selectors and collection scripts. Fixture sources and trimming are documented in [tests/fixtures/SOURCES.md](tests/fixtures/SOURCES.md). Re-parsed outputs may differ from historical CSVs because ordering, URL handling, and text normalization have been corrected.
+The [historical implementation](https://github.com/notnews/top10/tree/1fa99a1e85ed03c2efdddfa71377bedfaaa340c3) preserves the original selectors and collection scripts. Fixture sources and trimming are documented in [tests/fixtures/SOURCES.md](tests/fixtures/SOURCES.md). Re-parsed outputs may differ from historical CSVs because ordering, URL handling, and text normalization have been corrected.
 
 ## Usage
 
