@@ -1,7 +1,0 @@
-newspaper3k
-selenium
-beautifulsoup4
-lxml
-ftfy
-requests
-
