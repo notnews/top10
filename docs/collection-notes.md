@@ -1,6 +1,10 @@
+# Historical collection notes (2016–2017)
+
+This is the original collection inventory. Dates and references to current collection describe the 2016–2017 work. Counts have not been reverified against the published files.
+
 # Top News!
 
-Two types of scraping and parsing jobs: 
+Two types of scraping and parsing jobs:
 
 1. [Current (continuous, till 2016 election day)](#current-2016)
     * [Organization](#organization)
@@ -14,7 +18,7 @@ Two types of scraping and parsing jobs:
 
 The final data is posted [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OTJMYQ)
 
-[Back](readme.md)
+[Repository README](../README.md)
 
 ## Current (2016)
 
@@ -233,4 +237,3 @@ The frequency with which Internet Archive takes snapshots of different websites 
 
 8. WaPo:
 --- http://web.archive.org/web/*/washingtonpost.com seems to run into robots.txt
-
