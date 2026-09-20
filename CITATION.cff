@@ -6,7 +6,6 @@ version: "1.0"
 authors:
   - family-names: Sood
     given-names: Gaurav
-    email: contact@gsood.com
   - family-names: Laohaprapanon
     given-names: Suriyan
 repository-code: "https://github.com/notnews/top10"
