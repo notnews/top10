@@ -1,6 +1,5 @@
 # Top 10 News: Historical Homepages and Popular-Story Lists
 
-[![CI](https://github.com/notnews/top10/actions/workflows/ci.yml/badge.svg)](https://github.com/notnews/top10/actions/workflows/ci.yml)
 [![Data](https://img.shields.io/badge/data-Dataverse-blue)](https://doi.org/10.7910/DVN/OTJMYQ)
 [![Code license](https://img.shields.io/badge/code-MIT-green)](LICENSE)
 
@@ -114,7 +113,7 @@ uv run top10-news upload data/top10.parquet
 make check
 ```
 
-This runs Ruff, formatting, pytest, and pre-commit. `make ci-docker` runs lint and tests in standard Python 3.12 and 3.14 images. CI uses the same lockfile and checks. Install Git hooks with `uv run pre-commit install`.
+Run the relevant parser tests after code changes.
 
 ## Citation
 
@@ -123,3 +122,7 @@ Use [CITATION.cff](CITATION.cff) and cite the [versioned Dataverse release](http
 ## License
 
 Code is [MIT licensed](LICENSE). The Dataverse deposit is registered under CC0 1.0 with restricted access. Underlying news text and archived pages retain their owners' rights; consult the release for access conditions.
+
+## Maintenance
+
+This is a point-in-time data collection; see the [shared maintenance policy](https://github.com/soodoku/data-repos#maintenance-policy). Run the affected parser tests when code changes and the relevant data validators when inputs or outputs change. Full-data checks and publication are explicit operations. Routine edits do not require hosted CI, Docker, a Python-version matrix, Preen or pre-commit.
