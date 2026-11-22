@@ -8,7 +8,7 @@ license = "MIT"
 license-files = ["LICENSE"]
 authors = [
     { name = "Suriyan Laohaprapanon" },
-    { name = "Gaurav Sood", email = "contact@gsood.com" },
+    { name = "Gaurav Sood" },
 ]
 keywords = ["news", "historical data", "rankings", "Internet Archive", "parquet"]
 classifiers = [
